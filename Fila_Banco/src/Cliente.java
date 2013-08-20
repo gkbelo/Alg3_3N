@@ -6,7 +6,6 @@ public class Cliente {
 	private Integer Tempo_Final;
 	private Integer Tempo_Caixa;
 	private Integer Tempo_Atendimento;
-	
 	private String Finalizado;
 	
 	public Integer getId() {
